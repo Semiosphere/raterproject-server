@@ -1,0 +1,93 @@
+[
+    {
+        "model": "raterprojectapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Twilight Imperium Fourth Edition",
+            "description": "Build an intergalactic empire through trade, research, conquest and grand politics.",
+            "designer": "Dane Beltrami, Corey Konieczka, Christian T. Petersen",
+            "release_year": "2017",
+            "number_of_players": "3-6",
+            "est_playtime": "240-480 Min",
+            "rec_age": "14+"
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Root",
+            "description": "Decide the fate of the forest as woodland factions fight for contrasting goals.",
+            "designer": "Cole Wehrle",
+            "release_year": "2018",
+            "number_of_players": "2-4",
+            "est_playtime": "60-90 Min",
+            "rec_age": "10+"
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Memoir '44",
+            "description": "Revisit the battles of D-Day and control the forces of the Allies and the Axis!",
+            "designer": "Richard Borg",
+            "release_year": "2004",
+            "number_of_players": "2-8",
+            "est_playtime": "30-60 Min",
+            "rec_age": "8+"
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 4,
+        "fields": {
+            "title": "War Chest",
+            "description": "Recruit, bolster and maneuver your way to controlling the hex-grid battlefield.",
+            "designer": "Trevor Benjamin, David Thompson",
+            "release_year": "2018",
+            "number_of_players": "2-4",
+            "est_playtime": "30 Min",
+            "rec_age": "14+"
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 5,
+        "fields": {
+            "title": "Spirit Island",
+            "description": "Island Spirits join forces using elemental powers to defend their home from invaders.",
+            "designer": "R. Eric Reuss",
+            "release_year": "2017",
+            "number_of_players": "1-4",
+            "est_playtime": "90-120 Min",
+            "rec_age": "13+"
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 6,
+        "fields": {
+            "title": "Coup",
+            "description": "Bluff (and call bluffs!) to victory in this card game with no third chances.",
+            "designer": "Rikki Tahta",
+            "release_year": "2012",
+            "number_of_players": "2-6",
+            "est_playtime": "15 Min",
+            "rec_age": "13+"
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 7,
+        "fields": {
+            "title": "Flash Duel: Second Edition",
+            "description": "Fast paced, card-based dueling game featuring 20 characters from the Fantasy Strike series.",
+            "designer": "David Sirlin",
+            "release_year": "2011",
+            "number_of_players": "1-5",
+            "est_playtime": "5-15 Min",
+            "rec_age": "8+"
+        }
+    }
+]
