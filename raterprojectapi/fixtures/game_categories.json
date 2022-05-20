@@ -1,0 +1,114 @@
+[
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 1,
+        "fields": {
+            "game_id": 2,
+            "category_id": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 2,
+        "fields": {
+            "game_id": 2,
+            "category_id": 10
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 3,
+        "fields": {
+            "game_id": 3,
+            "category_id": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 4,
+        "fields": {
+            "game_id": 3,
+            "category_id": 4
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 4,
+        "fields": {
+            "game_id": 3,
+            "category_id": 10
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 5,
+        "fields": {
+            "game_id": 4,
+            "category_id": 10
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 6,
+        "fields": {
+            "game_id": 4,
+            "category_id": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 7,
+        "fields": {
+            "game_id": 5,
+            "category_id": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 8,
+        "fields": {
+            "game_id": 5,
+            "category_id": 9
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 9,
+        "fields": {
+            "game_id": 5,
+            "category_id": 10
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 10,
+        "fields": {
+            "game_id": 6,
+            "category_id": 1
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 11,
+        "fields": {
+            "game_id": 6,
+            "category_id": 3
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 12,
+        "fields": {
+            "game_id": 7,
+            "category_id": 3
+        }
+    },
+    {
+        "model": "raterprojectapi.game_category",
+        "pk": 13,
+        "fields": {
+            "game_id": 7,
+            "category_id": 10
+        }
+    }
+]
